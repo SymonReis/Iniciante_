@@ -1,0 +1,6 @@
+Saudações!
+
+Essa calculadora foi desenvolvida por mim, para ajudar a controlar meu tempo e estudos para concurso, além de treinar inicialmente
+algumas linguagens de programação que tenho interesse, como é o caso do python. Primeiramente a calculadora está simples, mas um dos
+requisitos que estou levantando, é a possibilidade de adicionar esses tempos em um banco de dados, para posteriormente realizar análise
+de tempo estudado por dia e matéria e medir meu desempenho.
